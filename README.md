@@ -1,4 +1,3 @@
 # Read Me
-Hello
 
-This is the makedown file.
+Hello! My name's Lei.
